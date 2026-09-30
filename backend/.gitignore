@@ -27,7 +27,7 @@ ENV/
 # TELEMETRY_SECRET_KEY must be injected as a genuine process environment
 # variable at runtime (see .env.example).
 *.env.local
-
+.env
 # --- Database ---
 *.db
 *.sqlite3
